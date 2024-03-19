@@ -1,0 +1,23 @@
+
+body {
+    margin: 0;
+}
+.record-header{
+    background-color:darkblue;
+    color: lightcoral;
+    text-align: center;
+}
+record-content. {
+    background-color: lightgrey;
+    padding: 1em;
+    
+}
+.comment {
+    background-color: blueviolet;
+    color: cyan;
+}
+
+body {
+    background-image: url('record.png');
+    background-repeat: repeat;
+}
